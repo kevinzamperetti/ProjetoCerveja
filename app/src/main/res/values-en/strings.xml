@@ -12,7 +12,7 @@
     <string name="melhor_opcao_lata">The best option is the 350ml can.</string>
     <string name="melhor_opcao_latao">The best option is 473ml brass.</string>
     <string name="ok">OK</string>
-    <string name="title_activity_pagina_inicial">HomePage</string>
     <string name="titulo">Gold Beer</string>
     <string name="subtitulo">The app that calculates which beer is worth buying!</string>
+    <string name="title_activity_resultado">Result</string>
 </resources>

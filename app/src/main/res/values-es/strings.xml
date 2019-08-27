@@ -3,7 +3,6 @@
     <string name="app_name">Gold Beer</string>
     <string name="subtitulo">¡La aplicación que calcula qué cerveza vale la pena comprar!</string>
     <string name="ok">OK</string>
-    <string name="title_activity_pagina_inicial">PáginaDeInicio</string>
     <string name="titulo">Gold Beer</string>
     <string name="melhor_opcao_latao">La mejor opción es 473 ml de latón.</string>
     <string name="melhor_opcao_lata">La mejor opción es la lata de 350 ml.</string>
@@ -15,4 +14,5 @@
     <string name="calcular">Calcular</string>
     <string name="atencao">ATENCION!!!</string>
     <string name="alerta_nenhum_valor_informado">Ingrese al menos un precio para el cálculo</string>
+    <string name="title_activity_resultado">Resultado</string>
 </resources>

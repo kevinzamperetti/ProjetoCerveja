@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 if ( ( resultado1 < resultado2 ) && ( resultado1 < resultado3 ) ) {
                     AlertDialog.Builder builder = new AlertDialog.Builder( MainActivity.this );
                     builder.setTitle( getString(R.string.atencao) );
-                    builder.setMessage( getString(R.string.melhor_opcao_garrafa) + Double.valueOf(String.format(Locale.US, "%.4f", resultado1)) );
+                    builder.setMessage( getString(R.string.melhor_opcao_garrafa) );
 
                     builder.setPositiveButton( getString(R.string.ok), new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface arg0, int arg1) {
@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                 if ( ( resultado2 < resultado1 ) && ( resultado2 < resultado3 ) ) {
                     AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
                     builder.setTitle( getString(R.string.atencao) );
-                    builder.setMessage( getString(R.string.melhor_opcao_latao) + Double.valueOf(String.format(Locale.US, "%.4f", resultado2)) );
+                    builder.setMessage( getString(R.string.melhor_opcao_latao) );
 
                     builder.setPositiveButton( getString(R.string.ok), new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface arg0, int arg1) {
@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
                 if ( ( resultado3 < resultado1 ) && ( resultado3 < resultado2 ) ) {
                     AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
                     builder.setTitle( getString(R.string.atencao) );
-                    builder.setMessage( getString(R.string.melhor_opcao_lata) + Double.valueOf(String.format(Locale.US, "%.4f", resultado3)) );
+                    builder.setMessage( getString(R.string.melhor_opcao_lata) );
 
                     builder.setPositiveButton( getString(R.string.ok), new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface arg0, int arg1) {

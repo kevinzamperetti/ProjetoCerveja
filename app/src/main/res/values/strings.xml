@@ -8,11 +8,11 @@
     <string name="digite_o_preco">Digite o preço</string>
     <string name="calcular">Calcular</string>
     <string name="ok">OK</string>
-    <string name="melhor_opcao_garrafa">A melhor opção é a garrafa de 600ml. Cada ml sai por:&#160; R$&#160;</string>
-    <string name="melhor_opcao_latao">A melhor opção é o latão de 473ml. Cada ml sai por:&#160; R$&#160;</string>
-    <string name="melhor_opcao_lata">A melhor opção é a lata de 350ml. Cada ml sai por:&#160; R$&#160;</string>
+    <string name="melhor_opcao_garrafa">A melhor opção é a garrafa de 600ml.</string>
+    <string name="melhor_opcao_latao">A melhor opção é o latão de 473ml.</string>
+    <string name="melhor_opcao_lata">A melhor opção é a lata de 350ml.</string>
     <string name="alerta_nenhum_valor_informado">Informe pelo menos um preço para realização do cálculo</string>
 
-    <string name="title_activity_pagina_inicial">PaginaInicial</string>
+    <string name="title_activity_resultado">Resultado</string>
     <string name="atencao">ATENÇÃO!!!</string>
 </resources>
